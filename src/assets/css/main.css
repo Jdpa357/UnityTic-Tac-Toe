@@ -2513,6 +2513,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 100%;
+			background: back;;
 		}
 
 			.image.fill img {
