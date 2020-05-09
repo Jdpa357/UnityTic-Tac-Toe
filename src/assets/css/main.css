@@ -3881,3 +3881,6 @@ input, select, textarea {
 		}
 
 	}
+	a.center, p.center, h1.center{
+		text-align: center;
+	}
